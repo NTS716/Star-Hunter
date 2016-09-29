@@ -27,7 +27,7 @@ function Bullet.update(self)
     end
 
     if self.type == "lob" then
-            --math
+            --mathiscool
     end
 end
 
