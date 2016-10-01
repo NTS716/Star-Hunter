@@ -47,7 +47,7 @@ function Player.update(self)
     end
 
     if love.keyboard.isDown("w") then
-        -- move up
+        -- move 11
         self.ypos = self.ypos - self.speed * love.timer.getDelta()
     elseif love.keyboard.isDown("s") then
         -- move down
